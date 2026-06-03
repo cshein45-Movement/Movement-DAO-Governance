@@ -20,7 +20,9 @@ Movement is a **Modular Framework** designed to build and deploy Move-based infr
 | **Smart Contract (MOVE)** | `0x3073f7aaa4db83f95e9fff17424f71d4751a3073` |
 | **Upgradeable Proxy** | `0x3073f7aaa4db83f95e9fff17424f71d4751a3073` |
 | **Implementation** | `0x1e1BF2Adf28E2e0549AD2474F04F3e1B0De77e9C` |
-| **Foundation Owner** | `0xb2cA1CAecd1D3e9bF84B9332cb4aB11961639a5c` |
+| **Implementation1** OFT Move V2 | `0x2e2Bc0e2920578E0d46d1f83787b01f1d8094695` |
+| **L2 Solution** | `0xc6d566a56a1aff6508b41f6c90ff131615583bcd` |
+| **Movement Creator** | `0xb2cA1CAecd1D3e9bF84B9332cb4aB11961639a5c` |
 | **Safe Multisig (Treasury)** | `base:0xE25dF57F6cAd807E5208BC5B53eD8048937ACa56` |
 
 -----
