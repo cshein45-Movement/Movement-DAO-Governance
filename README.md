@@ -23,7 +23,7 @@ Movement is a **Modular Framework** designed to build and deploy Move-based infr
 | **Implementation1** OFT Move V2 | `0x2e2Bc0e2920578E0d46d1f83787b01f1d8094695` |
 | **L2 Solution** | `0xc6d566a56a1aff6508b41f6c90ff131615583bcd` |
 | **Movement Creator** | `0xb2cA1CAecd1D3e9bF84B9332cb4aB11961639a5c` |
-| **Safe Multisig (Treasury)** | `base:0xE25dF57F6cAd807E5208BC5B53eD8048937ACa56` |
+| **Safe Multisig (Treasury)** | `[base:0xE25dF57F6cAd807E5208BC5B53eD8048937ACa56](https://app.safe.global/balances?safe=base:0xE25dF57F6cAd807E5208BC5B53eD8048937ACa56)`|
 
 -----
 
@@ -50,15 +50,16 @@ Movement is a **Modular Framework** designed to build and deploy Move-based infr
 
   * [Movement Explorer (Mainnet)](https://www.google.com/search?q=https://explorer.movementnetwork.xyz/)
   * [RootData Project Profile](https://www.rootdata.com/Projects/detail/Movement?k=OTMxMg==)
-  * [Tokenomist Vesting Dashboard](https://tokenomist.io/dashboard/move)
+  * [Tokenomist Vesting Dashboard](https://tokenterminal.com/explorer/projects/movement/financial-statement)
   * [CertiK Security Audit](https://skynet.certik.com/projects/movement-labs)
 
 ### 📱 Social & Community
 
-  * **Farcaster:** [@movementlabsxyz](https://farcaster.xyz/movementlabsxyz)
-  * **Web3 Bio:** [web3.bio/movementnetwork.base.eth](https://www.google.com/search?q=https://web3.bio/movementnetwork.base.eth)
-  * **Mirror (Blog):** [Official Mirror](https://www.google.com/search?q=https://mirror.xyz/%400xb2cA1CAecd1D3e9bF84B9332cb4aB11961639a5c)
+  * **Farcaster:** [@movementnetwork.base.eth](https://farcaster.xyz/movementnetwork.base.eth)
+  * **Web3 Bio:** [web3.bio/movementnetwork.base.eth](https://https://web3.bio/movementnetwork.base.eth)
+  * **Mirror (Blog):** [Official Mirror](https://mirror.xyz/movementnetwork.base.eth) | [Official Paragraph](https://paragraph.com/@movement)
   * **Developer GitHub:** [Movement Core](https://github.com/cshein45/movement-core)
+  * **Wiki GitHub:** [Movement Wiki](https://github.com/cshein45/movement-core/wiki)
 
 ### 📑 Internal Documentation (Notion)
 
@@ -71,8 +72,8 @@ Movement is a **Modular Framework** designed to build and deploy Move-based infr
 
 **Founder & System Architect of Movement Network Foundation.**
 
-  * **Crunchbase:** [Cooper Scanlon (Identity Link)](https://www.crunchbase.com/person/cooper-scanlon)
+  * **Web3:** [Identity Link](https://web3.bio/movementnetwork.base.eth)|[BaseName](https://www.base.org/name/movementnetwork)
   * **RootData Member:** [Ko Kyat Profile](https://www.rootdata.com/member/Ko%20Kyat?k=MTYwNDY%3D)
-  * **DAO Delegate:** [ENS Agora](https://agora.ensdao.org/delegates/0xb2cA1CAecd1D3e9bF84B9332cb4aB11961639a5c) | [Tally](https://tally.xyz/profile/0xb2ca1caecd1d3e9bf84b9332cb4ab11961639a5c)
+  * **DAO Delegate:** [ENS Agora](https://agora.ensdao.org/delegates/0xb2cA1CAecd1D3e9bF84B9332cb4aB11961639a5c) | [Tally](https://tally.xyz/profile/0xb2ca1caecd1d3e9bf84b9332cb4ab11961639a5c) | [Snapshot](https://snapshot.org/#/s:movementnetwork.base.eth/profile/0xb2cA1CAecd1D3e9bF84B9332cb4aB11961639a5c)
 
 -----
